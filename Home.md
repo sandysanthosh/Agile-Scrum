@@ -1,22 +1,22 @@
-Welcome to the Agile-Scrum wiki!
+#### Product/project Vision:
 
-`* * product/project Vision:
- *     product backlog
- *         sprint backlog
- *               sprint(2-4 weeks)
- *                   daily Scrum (Every 24 Hours) 
- *                        sprint Review
- *                             deploy(New Functionality)
+```
+	 Product backlog
+	 Sprint backlog
+	 Each sprint (2-4 weeks)
+	 Daily Scrum (Every 24 Hours) 
+	 Sprint Review
+	 Deploy (New Functionality)
 
+```
 
-* potential benefits of scrum:
+#### potential benefits of scrum:
 
-* more business value
-* higher quality
-* greater visibility
-* improved productivity 
-* stronger teams with better morale
-* higher efficiency & less waste
-
-
-`
+```
+	  More business values
+	  Higher quality
+	  Greater visibility
+	  Improved productivity 
+	  Stronger teams with better morale
+	  Higher efficiency & less waste
+```
